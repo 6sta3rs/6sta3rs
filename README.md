@@ -16,12 +16,6 @@ I build web applications with **React, Next.js, Svelte and TypeScript**, and dep
 
 ## Featured projects
 
-### Business website and AI report automation
-
-A production website for a business client: Next.js frontend, Sanity CMS and an automated flow from survey to AI-generated PDF report and email delivery, running in Docker containers on an Ubuntu VPS with per-service memory limits.
-
-- Live website: [gabrielaantczak.pl](https://gabrielaantczak.pl/)
-
 ### [77 Labs](https://github.com/6sta3rs/77-Labs)
 
 A local voice studio for Windows: multi-speaker narration editor, voice selection, local text-to-speech and export. Svelte 5, TypeScript, Tauri 2 and a Python/FastAPI engine.
@@ -42,5 +36,4 @@ A shift calendar with an AI agent that finds free time slots, plus time tracking
 
 ## Contact
 
-- Website: [pawelstach-automatyzacja.vercel.app](https://pawelstach-automatyzacja.vercel.app/)
 - Email: pawel.stach81@gmail.com
