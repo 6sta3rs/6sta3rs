@@ -1,4 +1,4 @@
-# Hi, I'm Paweł
+# Hi, I'm 6sta3rs
 
 ## Web Developer
 
